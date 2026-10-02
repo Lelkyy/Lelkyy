@@ -1,2 +1,2 @@
-Website with code and documentation at **leonid-elkin.github.io**
+Website with code and documentation at **Lelkyy.github.io**
 Download my ML library with **pip install elkwork**
